@@ -12,3 +12,4 @@ charenge HomeCredit in Kaggle!
 
 # 前処理データの扱い方
 Preディレクトリに入れていく -> csvの命名規則は "pre_[元ファイル名]"
+mergeするときにIDでmergeしたいので"to_csv"時に"index=False"にしてください
