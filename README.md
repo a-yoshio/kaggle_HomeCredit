@@ -11,5 +11,5 @@ charenge HomeCredit in Kaggle!
 提出物は 、予測確率と観察された目標との間のＲＯＣ曲線下面積(AUC?)で評価される。
 
 # 前処理データの扱い方
-Preディレクトリに入れていく -> csvの命名規則は "pre_[元ファイル名]"
+Preディレクトリに入れていく -> csvの命名規則は "pre_[元ファイル名]"  
 mergeするときにIDでmergeしたいので"to_csv"時に"index=False"にしてください
